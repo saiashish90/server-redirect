@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/"
-  to = "www.google.com"
+  to = "https://www.google.com"
   status = 200
   force = true
