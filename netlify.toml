@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "api.sai-ashish.site/"
+  from = "/"
   to = "www.google.com"
   status = 200
   force = true
